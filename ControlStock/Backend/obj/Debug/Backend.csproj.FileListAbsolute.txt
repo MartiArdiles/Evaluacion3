@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\ITS\PROGRAMACIÓN\VS2019\PrgINI\ControlStock\Backend\bin\Debug\Backend.dll
+C:\Users\marti\Desktop\ITS\PROGRAMACIÓN\VS2019\PrgINI\ControlStock\Backend\bin\Debug\Backend.pdb
+C:\Users\marti\Desktop\ITS\PROGRAMACIÓN\VS2019\PrgINI\ControlStock\Backend\obj\Debug\Backend.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\ITS\PROGRAMACIÓN\VS2019\PrgINI\ControlStock\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\ITS\PROGRAMACIÓN\VS2019\PrgINI\ControlStock\Backend\obj\Debug\Backend.dll
+C:\Users\marti\Desktop\ITS\PROGRAMACIÓN\VS2019\PrgINI\ControlStock\Backend\obj\Debug\Backend.pdb
